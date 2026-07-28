@@ -26,10 +26,11 @@ Ravi Kumar (₹48,597) and Kiran Rao (₹47,198) are the top two spenders, far a
 Samsung TV sells the fewest units (2) of all products, yet generates the highest revenue by far (₹90,000), since it's priced at ₹45,000 per unit. Low-priced, high-volume items like Football (7 units sold) generated only ₹4,893.
 **Recommendation:** Evaluate product performance and inventory priorities based on revenue contribution, not just sales volume.
 
-### 5. Underperforming Bra<img width="1677" height="942" alt="image" src="https://github.com/user-attachments/assets/4718d44a-942d-4c02-b2a7-f3eb70fcaede" />
-nches — 60% Fall Below ₹10,000
+### 5. Underperforming Branches — 60% Fall Below ₹10,000
+
 3 of 5 branches (Kukatpally, Nizamabad, Secunderabad) generate less than ₹10,000 in total revenue — well below the top performers.
-**Recommendation:** Prioritize a performance review across these 3 branches specifically, rather than treating store performance as evenly distributed.
+
+**Recommendation:** Prioritize a performance review across these three branches rather than treating store performance as evenly distributed.
 
 ### 6. Customer Spend Distribution — Only 40% Exceed the Average
 Only Ravi Kumar and Kiran Rao spent more than the average customer spend (₹22,697) — an average pulled upward almost entirely by these two. The typical remaining customer spends closer to ₹5,900.
