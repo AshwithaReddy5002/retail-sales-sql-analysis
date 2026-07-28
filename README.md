@@ -53,3 +53,18 @@ Within Electronics, Samsung TV (₹90,000) outranks Nokia 105 (₹4,500) by ~20x
 ## Files
 - `Retail_Sales_Analysis.sql` — full schema, sample data, all business-question queries, insights, and views
 - `README.md` — this summary
+
+## 📸 Project Screenshots
+
+### 1. Store Revenue Analysis
+![Store Revenue](screenshots/store_revenue.png)
+
+---
+
+### 2. Units Sold vs Revenue
+![Units vs Revenue](screenshots/units_vs_revenue.png)
+
+---
+
+### 3. Product Ranking by Category
+![Product Ranking](screenshots/product_ranking.png)
